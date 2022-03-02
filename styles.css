@@ -1,0 +1,42 @@
+.outer{
+    margin-left: 10%;
+    margin-right: 10%;
+    height: auto;
+    width: 80%;
+    display: flex;
+    border-radius: 5px;
+}
+
+.box{
+    height: 350px;
+    width: 300px;
+    margin: 20px;
+    border-radius: 5px;
+    line-height: 0px;
+    box-shadow: 0px 3px 1px 1px #d9d9d9;
+}
+
+.image{
+    width: 100%;
+    border-radius: 5px 5px 0px 0px;
+}
+
+.name{
+    text-align: center;
+    font-size: 22px;
+    font-weight: 1000;
+}
+
+.designation{
+    text-align: center;
+    font-size: 15px;
+    font-weight: bold;
+    opacity: 75%;
+}
+
+.logo{
+    margin-left: 10%;
+    margin-right: 10%;
+    width: 80%;
+    height: 75px;
+}
